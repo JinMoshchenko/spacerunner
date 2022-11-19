@@ -1,0 +1,38 @@
+{
+    "FindGoal": {
+        "checkpoints": [
+            {
+                "steps": 499955,
+                "file_path": "results\\test99\\FindGoal\\FindGoal-499955.onnx",
+                "reward": -4.545454545454546,
+                "creation_time": 1656233136.6864765,
+                "auxillary_file_paths": [
+                    "results\\test99\\FindGoal\\FindGoal-499955.pt"
+                ]
+            },
+            {
+                "steps": 500019,
+                "file_path": "results\\test99\\FindGoal\\FindGoal-500019.onnx",
+                "reward": -4.545454545454546,
+                "creation_time": 1656233136.7393355,
+                "auxillary_file_paths": [
+                    "results\\test99\\FindGoal\\FindGoal-500019.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500019,
+            "file_path": "results\\test99\\FindGoal.onnx",
+            "reward": -4.545454545454546,
+            "creation_time": 1656233136.7393355,
+            "auxillary_file_paths": [
+                "results\\test99\\FindGoal\\FindGoal-500019.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

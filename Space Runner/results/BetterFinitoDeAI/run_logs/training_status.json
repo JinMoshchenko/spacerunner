@@ -1,0 +1,29 @@
+{
+    "FindGoalB": {
+        "checkpoints": [
+            {
+                "steps": 288854,
+                "file_path": "results\\BetterFinitoDeAI\\FindGoalB\\FindGoalB-288854.onnx",
+                "reward": 1.0,
+                "creation_time": 1656285791.275442,
+                "auxillary_file_paths": [
+                    "results\\BetterFinitoDeAI\\FindGoalB\\FindGoalB-288854.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 288854,
+            "file_path": "results\\BetterFinitoDeAI\\FindGoalB.onnx",
+            "reward": 1.0,
+            "creation_time": 1656285791.275442,
+            "auxillary_file_paths": [
+                "results\\BetterFinitoDeAI\\FindGoalB\\FindGoalB-288854.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

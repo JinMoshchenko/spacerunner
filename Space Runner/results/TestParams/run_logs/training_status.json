@@ -1,0 +1,29 @@
+{
+    "FindGoal": {
+        "checkpoints": [
+            {
+                "steps": 290699,
+                "file_path": "results\\TestParams\\FindGoal\\FindGoal-290699.onnx",
+                "reward": null,
+                "creation_time": 1656237125.552511,
+                "auxillary_file_paths": [
+                    "results\\TestParams\\FindGoal\\FindGoal-290699.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 290699,
+            "file_path": "results\\TestParams\\FindGoal.onnx",
+            "reward": null,
+            "creation_time": 1656237125.552511,
+            "auxillary_file_paths": [
+                "results\\TestParams\\FindGoal\\FindGoal-290699.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}

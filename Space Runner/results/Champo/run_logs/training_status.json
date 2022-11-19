@@ -1,0 +1,38 @@
+{
+    "FindRepairStation": {
+        "checkpoints": [
+            {
+                "steps": 499996,
+                "file_path": "results\\Champo\\FindRepairStation\\FindRepairStation-499996.onnx",
+                "reward": -1.0,
+                "creation_time": 1656091644.770615,
+                "auxillary_file_paths": [
+                    "results\\Champo\\FindRepairStation\\FindRepairStation-499996.pt"
+                ]
+            },
+            {
+                "steps": 500150,
+                "file_path": "results\\Champo\\FindRepairStation\\FindRepairStation-500150.onnx",
+                "reward": -1.0,
+                "creation_time": 1656091644.8374355,
+                "auxillary_file_paths": [
+                    "results\\Champo\\FindRepairStation\\FindRepairStation-500150.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500150,
+            "file_path": "results\\Champo\\FindRepairStation.onnx",
+            "reward": -1.0,
+            "creation_time": 1656091644.8374355,
+            "auxillary_file_paths": [
+                "results\\Champo\\FindRepairStation\\FindRepairStation-500150.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.29.0",
+        "torch_version": "1.7.0+cu110"
+    }
+}
